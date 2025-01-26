@@ -1,0 +1,30 @@
+.tableComponent {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.projectTable {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.pageNumbersContainer {
+    margin: 20px;
+}
+
+.pageNumberButton {
+    margin: 5px;
+    width: 36px;
+    height: 36px;
+    background-color: #a8ebed;
+    cursor: pointer;
+}
+
+.projectTableContainer {
+    min-height: 240px;
+}
+
+.currentPageButton {
+    background-color: aqua;
+    cursor: not-allowed;
+}
